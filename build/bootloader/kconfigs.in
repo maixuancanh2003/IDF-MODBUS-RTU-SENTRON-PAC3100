@@ -1,0 +1,7 @@
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/efuse/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/esp32/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/esp_common/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/esp_system/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/log/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/newlib/Kconfig"
+source "D:/esp/Espressif/frameworks/esp-idf-v4.3.5/components/spi_flash/Kconfig"

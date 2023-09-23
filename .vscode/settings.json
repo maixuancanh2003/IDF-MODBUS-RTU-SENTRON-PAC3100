@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "string.h": "c",
+        "esp_log.h": "c",
+        "mbcontroller.h": "c",
+        "modbus_params.h": "c",
+        "*.inc": "c",
+        "ratio": "c",
+        "system_error": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "endian.h": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}

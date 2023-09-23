@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/esp/Espressif/frameworks/mb_master/build/CMakeFiles/bootloader
+D:/esp/Espressif/frameworks/mb_master/build/CMakeFiles/bootloader.rule
+D:/esp/Espressif/frameworks/mb_master/build/CMakeFiles/bootloader-complete.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/esp/Espressif/frameworks/mb_master/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
